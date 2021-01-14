@@ -2,6 +2,9 @@
 
 Projeto para desenvolver uma API RESTful que realiza operações de soma e divisão, onde somar e dividir são tarefas complexas que demandam uma biblioteca específica.
 
+## Documentação da API
+https://documenter.getpostman.com/view/11811277/TVzUDwZo
+
 ## Usando a API
 
 Faça o download do repositório do projeto;
