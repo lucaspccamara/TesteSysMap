@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas\\source\\repos\\Api_SysMap\\Api_SysMap\\Api_SysMap.csproj": {}
+    "C:\\Users\\lucas\\Source\\Repos\\TesteSysMap\\Api_SysMap\\Api_SysMap.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas\\source\\repos\\Api_SysMap\\Api_SysMap\\Api_SysMap.csproj": {
+    "C:\\Users\\lucas\\Source\\Repos\\TesteSysMap\\Api_SysMap\\Api_SysMap.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\source\\repos\\Api_SysMap\\Api_SysMap\\Api_SysMap.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\Source\\Repos\\TesteSysMap\\Api_SysMap\\Api_SysMap.csproj",
         "projectName": "Api_SysMap",
-        "projectPath": "C:\\Users\\lucas\\source\\repos\\Api_SysMap\\Api_SysMap\\Api_SysMap.csproj",
+        "projectPath": "C:\\Users\\lucas\\Source\\Repos\\TesteSysMap\\Api_SysMap\\Api_SysMap.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\source\\repos\\Api_SysMap\\Api_SysMap\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\Source\\Repos\\TesteSysMap\\Api_SysMap\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
